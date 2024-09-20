@@ -9,7 +9,7 @@ Technologies Used
 
 Frontend: HTML, CSS, JavaScript (with responsive design using Bootstrap)
 
-Backend: PHP (XAMPP)
+Backend: PHP (Wamp server)
 
 Database: MySQL
 
